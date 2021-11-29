@@ -38,3 +38,7 @@ dependencies {
 }
 ```
 
+        **使用 IDE 插件导航到目标类 **
+
+        在 Android Studio 插件市场中搜索 ARouter Helper, 或者直接下载文档上方 最新版本 中列出的 arouter-idea-plugin zip 安装包手动安装，安装后 插件无任何设置，可以在跳转代码的行首找到一个图标 (navigation) 点击该图标，即可跳转到标识了代码中路径的目标类
+
