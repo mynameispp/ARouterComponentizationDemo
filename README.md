@@ -1,5 +1,5 @@
 # ARouterComponentizationDemo
-项目模块化 + ARouter Demo</br>
+# # 项目模块化 + ARouter Demo</br>
 主要利用ARouter座位路由工具，连接各个模块和相互通讯，</br>
 主要有以下技术要点</br>
         1.Module的Arouter配置</br>
